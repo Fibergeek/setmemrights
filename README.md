@@ -1,0 +1,1 @@
+A x64dbg command to set the page rights of a multiple pages at once (memory range).
